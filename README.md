@@ -177,7 +177,7 @@ Runs project linting.
 
 Rather than presenting information conventionally, the interface communicates through interaction.
 
-Every visual element—from scanning lines and console diagnostics to simulated system applications—contributes to the illusion that the user is operating a real machine from within the film's universe.
+Every visual element from scanning lines and console diagnostics to simulated system applications contributes to the illusion that the user is operating a real machine from within the film's universe.
 
 The experience intentionally blurs the line between software and storytelling.
 
